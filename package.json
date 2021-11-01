@@ -1,0 +1,16 @@
+{
+  "name": "ellipticalgiantdirectory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dev": "cd ./source && npm run dev",
+     "build": "hexo generate"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hexo": "^5.4.0",
+    "hexo-cli": "^4.3.0"
+  }
+}
